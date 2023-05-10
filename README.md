@@ -7,6 +7,6 @@ Example:
 ![image](https://github.com/HiokHian/bionic-reading-chrome-ext/assets/56589476/b3a47535-f803-489a-8be8-f1c9ca5084b3)
 
 Future plans:
--[] Investigate buggy enabling/disabling of extension
--[] Find a way to retain the hyperlinks
--[] Allow for PDFs to be parsed in the same way (should be significantly more effort as pdfs/research papers are not easily rendered in html)
+-[ ] Investigate buggy enabling/disabling of extension
+-[ ] Find a way to retain the hyperlinks
+-[ ] Allow for PDFs to be parsed in the same way (should be significantly more effort as pdfs/research papers are not easily rendered in html)
