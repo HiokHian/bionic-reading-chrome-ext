@@ -1,5 +1,5 @@
 # bionic-reading-chrome-ext
-Not everyone can read quickly (myself included), but for some, [bionic reading (bolding parts of the words in a sentence) really helps to speed up the reading process and makes getting through long paragraphs easier](https://www.howtogeek.com/807981/what-is-bionic-reading-and-how-do-you-use-it/). Hence, here is a quick and dirty implementation of a chrome extension that allows you to highlight text on a webpage and replaces it with the bionic-reading version to enable faster reading of long paragraphs. 
+Not everyone can read quickly (myself included), but for some, [bionic reading (bolding parts of the words in a sentence) really helps to speed up the reading process and makes getting through long paragraphs easier](https://www.howtogeek.com/807981/what-is-bionic-reading-and-how-do-you-use-it/). Hence, here is a quick and dirty implementation of a chrome extension that allows you to choose which parts of the webpage you want to be converted using bionic reading by highlighting the text on a webpage and then it replaces those parts with the bionic-reading version to enable faster reading of long paragraphs. 
 
 Example:
 
