@@ -1,0 +1,26 @@
+{
+	"manifest_version": 3,
+	"name": "Bionic Reading",
+	"description": "Extension for allowing bionic reading.",
+	"version": "1.0",
+	"icons": {
+		"16": "images/bionic.png",
+		"48": "images/bionic.png",
+		"128": "images/bionic.png"
+	},
+	"action": {
+		"default_popup": "index.html",
+		"default_icon": {
+			"16": "images/bionic.png",
+			"48": "images/bionic.png",
+			"128": "images/bionic.png"
+		}
+	},
+	"permissions": ["storage"],
+	"content_scripts": [
+		{
+			"matches": ["<all_urls>"],
+			"js": ["content.js"]
+		}
+	]
+}
